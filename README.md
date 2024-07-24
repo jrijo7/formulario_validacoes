@@ -1,6 +1,6 @@
 # Formulário de Inscrição
 
-![Formulário de Inscrição](https://github.com/jrijo7/formulario_validacoes/tree/main/images/img.png)
+![Formulário de Inscrição](https://github.com/jrijo7/formulario_validacoes/blob/main/images/img.png)
 
 Este é um projeto simples de um formulário de inscrição, desenvolvido utilizando apenas conceitos básicos de HTML e CSS.
 
